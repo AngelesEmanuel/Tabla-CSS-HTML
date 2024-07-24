@@ -1,0 +1,10 @@
+.custom-link {
+    color:rgb(229, 227, 227);
+     text-decoration: none;
+
+    }
+    .custom-link:hover{
+        color:rgb(185, 29, 161);
+
+
+    }

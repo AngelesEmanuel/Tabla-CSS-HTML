@@ -1,0 +1,40 @@
+#ejemplo-h1{
+    color:chartreuse;
+    front-size:60pt;
+
+}
+
+
+/*seleccionar clase*/
+
+.euro{
+    color:black;
+    fromt-size: 50pt;
+}
+/*selector de claces*/
+.euro{
+ color:aqua;
+front-size: 30 pt;
+
+
+
+}
+
+
+.fut-llanero{
+    color:brown;
+    front-size: 40pt;
+
+}
+
+/*selector universal, cuando se queire localisar uno en espesifico,
+este permite ignorar reglas y priorizza
+las que se declaran dentro de este */
+*#warning{
+
+}
+
+
+*.warning{
+
+}
